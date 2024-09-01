@@ -1,0 +1,6 @@
+SID:FB79, TID:BC23(48163):
+[1]: trendiness:104, maxTrendiness:110, gainingTrendiness:1, rand:3ACE, words1:1437(ALONE), words2:1811(LESSONS).
+[2]: trendiness:078, maxTrendiness:090, gainingTrendiness:1, rand:0B39, words1:141C(EXCELLENT), words2:1A11(COLLECTION).
+[3]: trendiness:051, maxTrendiness:089, gainingTrendiness:1, rand:B17E, words1:1443(SEEMS), words2:181B(TELEVISION).
+[4]: trendiness:050, maxTrendiness:079, gainingTrendiness:0, rand:FB55, words1:1427(IMPOSSIBLE), words2:1829(LIFE).
+[5]: trendiness:044, maxTrendiness:059, gainingTrendiness:1, rand:B7B5, words1:1428(SMALL), words2:1A19(SONGS).
